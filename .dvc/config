@@ -1,4 +1,6 @@
 [core]
-    remote = mygoogledrive
+    remote = mydvc
 ['remote "mygoogledrive"']
+    url = gdrive://1DN0caQ7llDI__rXeLrt8OpVGdnwvQgnq
+['remote "mydvc"']
     url = gdrive://1DN0caQ7llDI__rXeLrt8OpVGdnwvQgnq
