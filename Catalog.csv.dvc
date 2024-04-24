@@ -1,0 +1,5 @@
+outs:
+- md5: 5b799b4640c9661f205dc94fc12d37e9
+  size: 110319216
+  hash: md5
+  path: Catalog.csv
